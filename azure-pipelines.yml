@@ -1,3 +1,4 @@
+name: buildContosoAir
 pool:
   name: Default
 trigger:
