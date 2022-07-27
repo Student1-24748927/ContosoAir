@@ -7,7 +7,7 @@ trigger: none
 
 resources:
  pipelines:
-  - pipeline: 3
+  - pipeline: buildContosoAir
     source: Student1-24748927.ContosoAir # name of the pipeline that produces the artifact
     trigger:
      branches:
