@@ -17,6 +17,7 @@ pool:
   name: default
 
 steps:
+  - checkout: none
   - task: DownloadPipelineArtifact@2
     inputs:
       buildType: 'specific'
