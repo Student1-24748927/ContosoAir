@@ -1,5 +1,5 @@
    pool: 
-    name: Default
+    name: DESKTOP-MQ4L9DH
    trigger:
      - master
    steps:
